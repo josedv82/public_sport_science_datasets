@@ -5,6 +5,8 @@ A list of publicly available datasets for sport scientists.
 
 Data is an important skill for sport scientists. Regardless the level of experience, being able to showcase skills in this area will help in future job interviews, networking or help create opportunities to collaborate with others in the field. Not all sport scientists may have access to the type of data that is usually available to professional teams and sport organizations however, nowadays there are many publicly available datasets that can be used to show your skills, philosophy and creativity when it comes to sport science analysis. Below you will be able to find a few and we hope to continue adding to the list over time.
 
+<img src="https://www.pinclipart.com/picdir/big/353-3532629_cropped-just-logoman-from-ab-sports-science-vector.png" align="right" width="300" />
+
 ***
 
 * **Tennis ATP Tour Australian Open Final:** Tracking data from the 2019 Australian Open Final between Nadal and Djokovic. Includes information about events as well as 2d player positions | [Download](https://github.com/josedv82/sport_open_datasets/tree/main/Tennis.%20ATP%20Tour%20AU%20Open%202019.%20Tracking%20Data) | [Source](https://www.kaggle.com/robseidl/tennis-atp-tour-australian-open-final-2019) | **Type:** CSV |
