@@ -9,7 +9,7 @@ A list of open datasets from different sports to work with. Mostly focusing on s
   
 * **NBA SportVU Athlete Tracking:** Positional tracking data for the 2015 NBA season captured via SportVU. | [Download](https://github.com/sealneaward/nba-movement-data/tree/master/data) | [Source](https://github.com/sealneaward) | **Type:** 7-zip |
 
-* **NBA Schedule Metrics Since 1947** NBA schedule and travel related metrics since 1947. | [Download](https://github.com/josedv82/sport_open_datasets/blob/main/NBA_schedule_metrics.csv) | [Source](https://github.com/josedv82/airball) | **Type:** CSV  
+* **NBA Schedule Metrics Since 1947** NBA schedule and travel related metrics since 1947 (distance traveled, rest between games, location, etc) for both teams in a game. | [Download](https://github.com/josedv82/sport_open_datasets/blob/main/NBA_schedule_metrics.csv) | [Source](https://github.com/josedv82/airball) | **Type:** CSV |
    
    
    
