@@ -11,6 +11,6 @@ A list of open datasets from different sports to work with. Mostly focusing on s
 ## Basketball:
 
 ### NBA Player Shooting Motions.
-* **Description:** #D Tracking data of basketball shots 
+* **Description:** 3D Tracking data of basketball shots | [Download]() | [Source](https://www.inpredictable.com/2021/01/nba-player-shooting-motions-data-dump.html) | 
 
 
