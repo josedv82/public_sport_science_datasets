@@ -1,11 +1,12 @@
 # Sport Science Datasets
 A list of publicly available datasets for sport scientists.
 
+<img src="https://www.pinclipart.com/picdir/big/353-3532629_cropped-just-logoman-from-ab-sports-science-vector.png" align="right" width="200" />
+
 ### Motivation
 
 Data is an important skill for sport scientists. Regardless the level of experience, being able to showcase skills in this area will help in future job interviews, networking or help create opportunities to collaborate with others in the field. Not all sport scientists may have access to the type of data that is usually available to professional teams and sport organizations however, nowadays there are many publicly available datasets that can be used to show your skills, philosophy and creativity when it comes to sport science analysis. Below you will be able to find a few and we hope to continue adding to the list over time.
 
-<img src="https://www.pinclipart.com/picdir/big/353-3532629_cropped-just-logoman-from-ab-sports-science-vector.png" align="right" width="300" />
 
 ***
 
