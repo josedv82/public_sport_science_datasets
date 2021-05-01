@@ -20,6 +20,7 @@ If would like to help grow this resource for others to benefit you are more than
 * Update the README file with a bullep point refering to your dataset, following the same format including: title, brief explanation, download link, source link, file type. 
 * If you have access to the raw dataset upload it to the repo. If the dataset has more than one file please create a folder that contains all the files. 
 * Use the source link on the readme paragraph to credit the person who made the data available. If that was you then credit yourself! The source link is important, so users know where to go to learn more about that dataset.
+* Topics of interest include optical/sensor athlete tracking, athlete monitoring data, physical profiling, schedule metrics, etc for any sport.
 
 Thanks for your contribution!
 
