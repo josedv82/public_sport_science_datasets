@@ -15,11 +15,12 @@ A list of open datasets from different sports to work with. Mostly focusing on s
 
 ---
 ### Contributions
-If you would like to contribute and help growing this resource please do so. The only requirements are:
+If would like to help grow this resource for others to benefit you are more than welcome to do so. The only requirements are:
 
-* Post the link on the README file. Follow the same format as the current datasets.
-* Upload the file to the repository with a name that describes the data set. Link it to the Download link on the README file. Add a link with the original source of the data to credit the person who originally made it available. If it is your own data then credit yourself!
+* Update the README file with a bullep point refering to your dataset, following the same format including: title, brief explanation, download link, source link, file type. 
+* If you have access to the raw dataset upload it to the repo. If the dataset has more than one file please create a folder that contains all the files. 
+* Use the source link on the readme paragraph to credit the person who made the data available. If that was you then credit yourself!
 
-That's it!
+Thanks for your contribution!
 
 
