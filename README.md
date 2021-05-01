@@ -13,3 +13,13 @@ Tracking data from the 2019 Australian Open Final between Nadal and Djokovic. In
 3D Tracking data of basketball shots for a selected group of NBA players. | [Download](https://github.com/josedv82/sport_open_datasets/tree/main/Basketball%20NBA%20Player%20Shooting%20Motions) | [Source](https://www.inpredictable.com/2021/01/nba-player-shooting-motions-data-dump.html) | Type: .feather |
 
 
+***
+### Contributions
+If you would like to contribute and add more data sets please do so. The only requirements are:
+
+* Post the link on the README file. Follow the same format as the current datasets.
+* Upload the file to the repository with a name that describes the data set. Link it to the Download link on the README file. Add a link with the original source of the data to credit the person who originally made it available.
+
+That's it.
+
+
