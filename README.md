@@ -27,7 +27,7 @@ Data analysis is an important area for sport scientists. Regardless the level of
 
 ---
 ### How to contribute
-Contributions to help grow this resource are more than welcome so others can benefit. The only requirements are:
+Contributions to help grow this resource are more than welcome so others can benefit. Contributors will be visible on this page. The only requirements are:
 
 * Update the `README` file with a bullet point refering to your dataset, following the same format including: title, brief explanation, download link, source link, file type.  
 
