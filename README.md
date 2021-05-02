@@ -27,11 +27,14 @@ Data analysis is an important area for sport scientists. Regardless the level of
 
 ---
 ### How to contribute
-If you'd like to help grow this resource for others to benefit you are more than welcome to do so. The only requirements are:
+Contributions to help grow this resource are more than welcome so others can benefit. The only requirements are:
 
-* Update the `README` file with a bullep point refering to your dataset, following the same format including: title, brief explanation, download link, source link, file type. 
-* If you have access to the raw dataset upload it to the repo. If the dataset has more than one file please create a folder that contains all the files. Consider adding a document briefly explaining the metrics along with the files if needed.
-* Use the source link on the `README` paragraph to credit the person who made the data available. If that was you then credit yourself! The source link is important, so users know where to go to learn more about that dataset.
+* Update the `README` file with a bullet point refering to your dataset, following the same format including: title, brief explanation, download link, source link, file type.  
+
+* If you have access to the raw dataset upload it to the repo. If the dataset has more than one file please create a folder that contains all the files. Consider adding a document briefly explaining the metrics along with the files if needed.  
+
+* Use the source link on the `README` paragraph to credit the person who made the data available. If that was you then credit yourself! The source link is important, so users know where to go to learn more about that dataset.  
+
 * Topics of interest include optical/sensor athlete tracking, athlete monitoring data, physical profiling, injuries, schedule metrics, biomechanics, video materials, etc from any sport.
 
 Here is a tutorial on how to contribute to a github project: [Link](https://github.com/MarcDiethelm/contributing/blob/master/README.md)
