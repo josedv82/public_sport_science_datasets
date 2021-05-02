@@ -19,7 +19,7 @@ Data analysis is an important area for sport scientists. Regardless the level of
 
 * **NBA Schedule Metrics Since 1947** NBA schedule and travel related metrics since 1947 (distance traveled, rest between games, location, time zone shifts, etc) for both teams in a game. | [Download](https://github.com/josedv82/sport_open_datasets/tree/main/NBA%20Schedule%20Metrics) | [Source](https://github.com/josedv82/airball) | **Type:** CSV |
 
-* **NBA Draft & Combine:** NBA Draft elections since 1947 along with two files containing anthropometric and physical performance data from combines since 2000-01 season. | [Download]() | [Source]() | **Type:** CSV |
+* **NBA Draft & Combine:** NBA Draft elections since 1947 along with two files containing anthropometric and physical performance data from combines since 2000-01 season. | [Download](https://github.com/josedv82/sport_open_datasets/tree/main/NBA%20Combine) | [Source](https://www.nba.com/stats/draft/combine-anthro/) | **Type:** CSV |
    
    
    
