@@ -34,6 +34,8 @@ If you'd like to help grow this resource for others to benefit you are more than
 * Use the source link on the `README` paragraph to credit the person who made the data available. If that was you then credit yourself! The source link is important, so users know where to go to learn more about that dataset.
 * Topics of interest include optical/sensor athlete tracking, athlete monitoring data, physical profiling, injuries, schedule metrics, biomechanics, video materials, etc from any sport.
 
+Here is a tutorial on how to contribute to a github project: [Link](https://github.com/MarcDiethelm/contributing/blob/master/README.md)
+
 Thanks for your contribution!
 
 
