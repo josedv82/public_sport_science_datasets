@@ -13,7 +13,7 @@ Not all sport scientists may have access to the type of data that is usually ava
 ***
 ### Datasets
 
-* **Tennis ATP Tour Australian Open Final:** Tracking data from the 2019 Australian Open Final between Nadal and Djokovic. Includes information about events as well as 2D player positions | [Download](https://github.com/josedv82/sport_open_datasets/tree/main/Tennis.%20ATP%20Tour%20AU%20Open%202019.%20Tracking%20Data) | [Source](https://www.kaggle.com/robseidl/tennis-atp-tour-australian-open-final-2019) | **Type:** CSV |
+* **Tennis Player Tracking ATP Tour Australian Open Final:** Tracking data from the 2019 Australian Open Final between Nadal and Djokovic. Includes information about events as well as 2D player positions | [Download](https://github.com/josedv82/sport_open_datasets/tree/main/Tennis.%20ATP%20Tour%20AU%20Open%202019.%20Tracking%20Data) | [Source](https://www.kaggle.com/robseidl/tennis-atp-tour-australian-open-final-2019) | **Type:** CSV |
 
 * **NBA Player Shooting Motions:** 3D ball tracking data of basketball shots for a selected group of NBA players. | [Download](https://github.com/josedv82/sport_open_datasets/tree/main/Basketball%20NBA%20Player%20Shooting%20Motions) | [Source](https://www.inpredictable.com/2021/01/nba-player-shooting-motions-data-dump.html) | **Type:** Feather |
   
