@@ -23,7 +23,7 @@ Not all sport scientists may have access to the type of data that is usually ava
 
 * **NBA Draft & Combine:** NBA Draft elections since 1947 along with two files containing anthropometric and physical performance data from combines since 2000-01 season. | [Download](https://github.com/josedv82/sport_open_datasets/tree/main/NBA%20Combine) | [Source](https://www.nba.com/stats/draft/combine-anthro/) | **Type:** CSV |
 
-* **NFL Combine & Pro Day Data:** Data from NFL combines and pro days since 1987. This dataset contains more than 13K observations with anthropometric and physical profile metrics. | [Donwload]()https://github.com/josedv82/public_sport_science_datasets/blob/main/NFL_Combine%20(1987-21).csv | [Source](https://nflcombineresults.com/) | **Type:** CSV |
+* **NFL Combine & Pro Day Data:** Data from NFL combines and pro days since 1987. This dataset contains more than 13K observations with anthropometric and physical profile metrics. | [Donwload](https://github.com/josedv82/public_sport_science_datasets/blob/main/NFL_Combine%20(1987-21).csv) | [Source](https://nflcombineresults.com/) | **Type:** CSV |
    
    
    
