@@ -1,7 +1,7 @@
 # Sport Science Public Datasets
 An ongoing compilation of publicly available datasets for sport science projects.
 
-<img src="https://www.pinclipart.com/picdir/big/353-3532629_cropped-just-logoman-from-ab-sports-science-vector.png" align="right" width="350" />
+<img src="https://www.pinclipart.com/picdir/big/353-3532629_cropped-just-logoman-from-ab-sports-science-vector.png" align="right" width="400" />
 
 ### Motivation
 
