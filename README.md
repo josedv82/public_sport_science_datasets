@@ -29,7 +29,7 @@ See below for a list of currently featured datasets:
 
 5. **NBA Draft & Combine:** NBA Draft elections since 1947 along with two files containing anthropometric and physical performance data from combines since 2000-01 season. | [Download](https://github.com/josedv82/sport_open_datasets/tree/main/NBA%20Combine) | [Source](https://www.nba.com/stats/draft/combine-anthro/) | **Type:** CSV |
 
-6. **NFL Combine & Pro Day Data:** Data from NFL combines and pro days since 1987. This dataset contains more than 13K observations with anthropometric and physical profile metrics. | [Donwload](https://github.com/josedv82/public_sport_science_datasets/tree/main/NFL%20Combine).csv) | [Source](https://nflcombineresults.com/) | **Type:** CSV |  
+6. **NFL Combine & Pro Day Data:** Data from NFL combines and pro days since 1987. This dataset contains more than 13K observations with anthropometric and physical profile metrics. | [Donwload](https://github.com/josedv82/public_sport_science_datasets/tree/main/NFL%20Combine.csv) | [Source](https://nflcombineresults.com/) | **Type:** CSV |  
 
 7. **NFL Game Tracking:** Athlete Tracking data from each game in the 2017 NFL Season. Includes files with informations about players, events and play by play. | [Donwload](https://github.com/josedv82/public_sport_science_datasets/tree/main/NFL%20Tracking) | [Source](https://github.com/nfl-football-ops/Big-Data-Bowl) | **Type:** Feather |
 
