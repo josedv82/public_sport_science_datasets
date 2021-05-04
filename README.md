@@ -61,4 +61,4 @@ Thanks for your contribution!
 
 ### Disclaimer
 
-The goal is to featured and provide direct access to datasets that are currently publicly available or that someone wants to make available for others. We don't do any modifications on the datasets.
+The aim of this repository is to feature and provide direct access to datasets that are currently publicly available or that someone wishes to make available for others to use. We don't do any modifications on the datasets.
