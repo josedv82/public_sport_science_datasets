@@ -1,9 +1,9 @@
 # Sport Science Public Datasets
 An ongoing compilation of publicly available datasets for sport science projects.
 
-<img src="https://www.pinclipart.com/picdir/big/353-3532629_cropped-just-logoman-from-ab-sports-science-vector.png" align="right" width="450" />
-
 ### Motivation
+
+<img src="https://www.pinclipart.com/picdir/big/353-3532629_cropped-just-logoman-from-ab-sports-science-vector.png" align="right" width="400" />
 
 The importance of data skills for sport scientists is not new. Regardless the level of experience, being able to showcase skills in this area will help in various ways, such as future job interviews, networking or help create opportunities to collaborate with others in the field.  
 
