@@ -71,6 +71,12 @@ Thanks for your contribution!
 
 ---
 
+### Acknowledgment 
+
+Special thanks to the companies and individuals that made these datasets public. Please check the `source` link on each dataset to visit the original resource.
+
+---
+
 ### Disclaimer
 
 The aim of this repository is to feature and provide direct access to datasets that are currently publicly available or that someone wishes to make available for others to use. We don't do any modifications on the datasets.
