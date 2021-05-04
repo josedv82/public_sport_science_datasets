@@ -35,17 +35,19 @@ Not all sport scientists may have access to the type of data that is usually ava
 
 ---
 ### How to contribute
-Contributions to help grow this resource are more than welcome so others can benefit. Contributors will be visible on this page. The only requirements are:
+Contributions to help grow this resource are more than welcome so others can benefit. Every contributors will be visible on this page.
+
+**Contributing guidelines:**
 
 * Update the `README` file with a bullet point refering to your dataset, following the same format including: title, brief explanation, download link, source link, file type.  
 
-* If you have access to the raw dataset upload it to the repo. If the dataset has more than one file please create a folder that contains all the files. Consider adding a document briefly explaining the metrics along with the files if needed.  
+* If you have access to the raw dataset upload it to the repo inside a folder. The name of the folder should minimally describe the data inside. Consider adding a document briefly explaining the metrics along with the files if needed.  
 
-* Use the source link on the `README` paragraph to credit the person who made the data available, or the original location where the dataset can be found. If this is your own dataset then credit yourself! The source link is important, so users know where to go to learn more about that dataset.  
+* Use the source link on the `README` paragraph to credit the person who made the data available, or the original location where the dataset can be found. If this is your own dataset then credit yourself! The source link is important, so users know where to go to learn more about each specific dataset.  
 
-* Topics of interest include optical/sensor athlete tracking, athlete monitoring data, physical profiling, injuries, schedule metrics, biomechanics, video materials, etc from any sport. Companies that provide data through technology are also welcome to upload sample datasets so more sport scientist can become familiar with that information. 
+* Topics of interest include optical/sensor athlete tracking, athlete monitoring data, physical profiling, injuries, schedule metrics, biomechanics, video materials, etc from any sport. Companies that provide data through technology are also welcome to upload sample datasets as a way to help sport scientists become more familiar with the data. 
 
-Here is a tutorial on how to contribute to a github project: [Link](https://github.com/MarcDiethelm/contributing/blob/master/README.md)
+If not sure about how to make a contribution, here is a tutorial that explains how to contribute to a github project: [Link](https://github.com/MarcDiethelm/contributing/blob/master/README.md)
 
 Thanks for your contribution!
 
