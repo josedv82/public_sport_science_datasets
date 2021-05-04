@@ -17,7 +17,7 @@ Not all sport scientists may have access to the type of data that is usually ava
 
 2. **NBA Player Shooting Motions:** 3D ball tracking data of basketball shots for a selected group of NBA players. | [Download](https://github.com/josedv82/sport_open_datasets/tree/main/Basketball%20NBA%20Player%20Shooting%20Motions) | [Source](https://www.inpredictable.com/2021/01/nba-player-shooting-motions-data-dump.html) | **Type:** Feather |
   
-3. **NBA SportVU Athlete Tracking:** Positional tracking data for the 2015 NBA season captured via SportVU. | [Download](https://github.com/josedv82/public_sport_science_datasets/tree/main/NBA%20Tracking) | [Source](https://github.com/sealneaward) | **Type:** 7-zip |
+3. **NBA SportVU Athlete Tracking:** Positional tracking data for the 2015 NBA season captured via SportVU. Includes raw x/y data and play by play logs. | [Download](https://github.com/josedv82/public_sport_science_datasets/tree/main/NBA%20Tracking) | [Source](https://github.com/sealneaward) | **Type:** 7-zip |
 
 4. **NBA Schedule Metrics Since 1947** NBA schedule and travel related metrics since 1947 (distance traveled, rest between games, location, time zone shifts, etc) for both teams in a game. | [Download](https://github.com/josedv82/sport_open_datasets/tree/main/NBA%20Schedule%20Metrics) | [Source](https://github.com/josedv82/airball) | **Type:** CSV |
 
