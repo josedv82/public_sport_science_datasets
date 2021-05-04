@@ -53,15 +53,15 @@ Contributions to help grow this resource are more than welcome so others can ben
 
 Topics of interest include:
 
--- optical/sensor athlete tracking 
--- athlete monitoring data 
-- physical profiling 
-- Sport physiology data 
-- injuries 
-- schedule & travel metrics 
-- sport biomechanics 
-- video materials
-- etc.
+> optical/sensor athlete tracking 
+> athlete monitoring data 
+> physical profiling 
+> Sport physiology data 
+> injuries 
+> schedule & travel metrics 
+> sport biomechanics 
+> video materials
+> etc.
  
 Companies that provide data through technology are also welcome to upload sample datasets as a way to help sport scientists become more familiar with the data. 
 
