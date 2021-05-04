@@ -1,4 +1,4 @@
-# Sport Science Public Datasets
+# Public Sport Science Datasets
 An ongoing compilation of publicly available datasets for sport science projects.
 
 ### Motivation
