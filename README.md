@@ -1,13 +1,17 @@
 # Sport Science Public Datasets
-A ongoing compilation of publicly available datasets for sport science projects.
+An ongoing compilation of publicly available datasets for sport science projects.
 
 <img src="https://www.pinclipart.com/picdir/big/353-3532629_cropped-just-logoman-from-ab-sports-science-vector.png" align="right" width="250" />
 
 ### Motivation
 
-Data analysis is an important area for sport scientists. Regardless the level of experience, being able to showcase skills in this area will help in future job interviews, networking or help create opportunities to collaborate with others in the field. 
+The importance of data skills for sport scientists are not new. Regardless the level of experience, being able to showcase skills in this area will help in various ways, such as future job interviews, networking or help create opportunities to collaborate with others in the field.  
 
-Not all sport scientists may have access to the type of data that is usually available to professional teams and sport organizations however, nowadays there are many publicly available datasets that can be used to develop and show your data skills, analytical process and creativity when it comes to sport science analysis. Below you will be able to find a few and we hope to continue adding to the list over time.
+Although nowadays there are more sport analytics courses and learning materials available, a comment that I usually get when it comes to learning data skills is that the datasets used during initial learning are not motivating and not sport specific.
+
+Unfortunately, sport scientists may not always have access to the type of data that is usually available to professional teams and sport organizations however, nowadays there are many publicly available datasets that can be used to develop and show your data skills, analytical process and creativity when it comes to sport science analysis. 
+
+Below you will be able to find a few and we hope to continue adding to the list over time.
 
 
 ***
