@@ -57,4 +57,8 @@ If not sure about how to make a contribution, here is a tutorial that explains h
 
 Thanks for your contribution!
 
+---
 
+### Disclaimer
+
+The goal is to featured and provide direct access to datasets that are currently publicly available or that someone wants to make available for others. We don't do any modifications on the datasets.
