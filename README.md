@@ -53,8 +53,8 @@ Contributions to help grow this resource are more than welcome so others can ben
 
 Topics of interest include:
 
-- optical/sensor athlete tracking 
-- athlete monitoring data 
+-- optical/sensor athlete tracking 
+-- athlete monitoring data 
 - physical profiling 
 - Sport physiology data 
 - injuries 
