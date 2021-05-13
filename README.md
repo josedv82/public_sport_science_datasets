@@ -38,6 +38,8 @@ See below for a list of currently featured datasets:
  9. **Annotated Sport Videos Dataset:** This dataset contains links to 1,133,158 YouTube videos annotated with 487 sports labels. Suitable for machine learning and computer vision related work. | [Download](https://github.com/gtoderici/sports-1m-dataset/) | [Source](https://paperswithcode.com/dataset/sports-1m)  | **Type:** Video |
 
 10. **Video Databse of Golf Swing Sequencing:** GolfDB is a high-quality video dataset created for general recognition applications in the sport of golf, and specifically for the task of golf swing sequencing. | [Download](https://github.com/wmcnally/GolfDB) | [Source](https://paperswithcode.com/dataset/golfdb)  | **Type:** Video |
+
+11. **Oura Ring Data:** This dataset contains a year worth of wellness data collected with the Oura ring. | [Download]() | [Source](https://www.kaggle.com/eljailarisuhonen/oura-health-data-analysis-one-year-period?select=oura_2019_trends.csv)  | **Type:** Video |
    
    
 
