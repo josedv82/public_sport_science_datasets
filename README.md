@@ -39,7 +39,7 @@ See below for a list of currently featured datasets:
 
 10. **Video Databse of Golf Swing Sequencing:** GolfDB is a high-quality video dataset created for general recognition applications in the sport of golf, and specifically for the task of golf swing sequencing. | [Download](https://github.com/wmcnally/GolfDB) | [Source](https://paperswithcode.com/dataset/golfdb)  | **Type:** Video |
 
-11. **Oura Ring Data:** This dataset contains a year worth of wellness data collected with the Oura ring. | [Download]() | [Source](https://www.kaggle.com/eljailarisuhonen/oura-health-data-analysis-one-year-period?select=oura_2019_trends.csv)  | **Type:** Video |
+11. **Oura Ring Data:** This dataset contains a year worth of wellness data collected with the Oura ring. | [Download](https://github.com/josedv82/public_sport_science_datasets/tree/main/Oura%20Ring%20Data) | [Source](https://www.kaggle.com/eljailarisuhonen/oura-health-data-analysis-one-year-period?select=oura_2019_trends.csv)  | **Type:** CSV |
    
    
 
