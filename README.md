@@ -36,6 +36,8 @@ See below for a list of currently featured datasets:
 8. **MLB Sprint Running Metrics:** Split times (0 to 90ft) and max running speed (ft/s) for every MLB position player between 2015 until May 2021. | [Donwload](https://github.com/josedv82/public_sport_science_datasets/tree/main/MLB%20Running) | [Source](https://baseballsavant.mlb.com/) | **Type:** XLSX |
    
  9. **Annotated Sport Videos Dataset:** This dataset contains links to 1,133,158 YouTube videos annotated with 487 sports labels. Suitable for machine learning and computer vision related work. | [Download](https://github.com/gtoderici/sports-1m-dataset/) | [Source](https://paperswithcode.com/dataset/sports-1m)  | **Type:** Video |
+
+10. **Video Databse of Golf Swing Sequencing:** GolfDB is a high-quality video dataset created for general recognition applications in the sport of golf, and specifically for the task of golf swing sequencing. | [Download](https://github.com/wmcnally/GolfDB) | [Source](https://paperswithcode.com/dataset/golfdb)  | **Type:** Video |
    
    
 
