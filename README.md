@@ -13,10 +13,12 @@ Unfortunately, sport scientists may not always have access to the type of data t
 
 This resource aims to provide a list of some of those publicly available datasets that can hopefully be used to create sport science data projects and the goal is to continue adding more over time. 
 
-See below for a list of currently featured datasets:
-
-
 ***
+
+<details>
+<summary>Click here to see the list of all available datasets.</summary>
+<p>
+
 ### Datasets
 
 1. **Tennis Player Tracking ATP Tour Australian Open Final:** Tracking data from the 2019 Australian Open Final between Nadal and Djokovic. Includes information about events as well as 2D player positions | [Download](https://github.com/josedv82/sport_open_datasets/tree/main/Tennis.%20ATP%20Tour%20AU%20Open%202019.%20Tracking%20Data) | [Source](https://www.kaggle.com/robseidl/tennis-atp-tour-australian-open-final-2019) | **Type:** CSV |
@@ -41,7 +43,8 @@ See below for a list of currently featured datasets:
 
 11. **Oura Ring Data:** This dataset contains a year worth of wellness data collected with the Oura ring. | [Download](https://github.com/josedv82/public_sport_science_datasets/tree/main/Oura%20Ring%20Data) | [Source](https://www.kaggle.com/eljailarisuhonen/oura-health-data-analysis-one-year-period?select=oura_2019_trends.csv)  | **Type:** CSV |
    
-   
+</p>
+</details> 
 
 ---
 ### How to contribute
