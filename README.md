@@ -45,7 +45,7 @@ This resource aims to provide a list of some of those publicly available dataset
 
 12. **Sleep Dataset:** Acceleration (in units of g) and heart rate (bpm, measured from photoplethysmography) recorded from the Apple Watch, as well as labeled sleep scored from gold-standard polysomnography from 31 subjetcs. | [Download](https://github.com/josedv82/public_sport_science_datasets/tree/main/Sleep%20Dataset) | [Source](https://physionet.org/content/sleep-accel/1.0.0/)  | **Type:** TXT |
 
-14. **NHL Tracking and Play by Play:** The data represents all the official metrics measured for each game in the NHL between 2015-21. Information includes tracking, events, play-by-play, etc| [Download](https://github.com/josedv82/public_sport_science_datasets/tree/main/NHL%20Tracking%20%26%20Stats) | [Source](https://www.kaggle.com/martinellis/nhl-game-data?select=table_relationships.JPG)  | **Type:** FST |
+13. **NHL Tracking and Play by Play:** The data represents all the official metrics measured for each game in the NHL between 2015-21. Information includes tracking, events, play-by-play, etc. | [Download](https://github.com/josedv82/public_sport_science_datasets/tree/main/NHL%20Tracking%20%26%20Stats) | [Source](https://www.kaggle.com/martinellis/nhl-game-data?select=table_relationships.JPG)  | **Type:** FST |
    
 </p>
 </details> 
