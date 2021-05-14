@@ -42,6 +42,8 @@ This resource aims to provide a list of some of those publicly available dataset
 10. **Video Databse of Golf Swing Sequencing:** GolfDB is a high-quality video dataset created for general recognition applications in the sport of golf, and specifically for the task of golf swing sequencing. | [Download](https://github.com/wmcnally/GolfDB) | [Source](https://paperswithcode.com/dataset/golfdb)  | **Type:** Video |
 
 11. **Oura Ring Data:** This dataset contains a year worth of wellness data collected with the Oura ring. | [Download](https://github.com/josedv82/public_sport_science_datasets/tree/main/Oura%20Ring%20Data) | [Source](https://www.kaggle.com/eljailarisuhonen/oura-health-data-analysis-one-year-period?select=oura_2019_trends.csv)  | **Type:** CSV |
+
+12. **Sleep Dataset:** Acceleration (in units of g) and heart rate (bpm, measured from photoplethysmography) recorded from the Apple Watch, as well as labeled sleep scored from gold-standard polysomnography from 31 subjetcs. | [Download](https://github.com/josedv82/public_sport_science_datasets/tree/main/Sleep%20Dataset) | [Source](https://physionet.org/content/sleep-accel/1.0.0/)  | **Type:** TXT |
    
 </p>
 </details> 
