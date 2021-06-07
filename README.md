@@ -47,7 +47,7 @@ This resource aims to provide a list of some of those publicly available dataset
 
 13. **NHL Tracking and Play by Play:** The data represents all the official metrics measured for each game in the NHL between 2015-21. Information includes tracking, events, play-by-play, etc. | [Download](https://github.com/josedv82/public_sport_science_datasets/tree/main/NHL%20Tracking%20%26%20Stats) | [Source](https://www.kaggle.com/martinellis/nhl-game-data?select=table_relationships.JPG)  | **Type:** FST |
 
-14. **IPL Cricket Dataset:** The folder contains ball-by-ball data for the IPL matches in csv format. It contains data for 845 matches. There is an extra file called as the 'all_matches.csv' which contains the combined information of all matches in one single file.| [Download](https://github.com/josedv82/public_sport_science_datasets/blob/main/Cricket.zip) | [Source](httphttps://github.com/josedv82/public_sport_science_datasets/blob/main/Cricket.zips://cricsheet.org/) | **Type:** CSV |
+14. **IPL Cricket Dataset:** The folder contains ball-by-ball data for the IPL matches in csv format. It contains data for 845 matches. There is an extra file called as the 'all_matches.csv' which contains the combined information of all matches in one single file.| [Download](https://github.com/josedv82/public_sport_science_datasets/blob/main/Cricket.zip) | [Source](https://cricsheet.org/) | **Type:** CSV |
   
 </p>
 </details> 
