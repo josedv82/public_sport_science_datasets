@@ -54,7 +54,7 @@ This resource aims to provide a list of some of those publicly available dataset
 
 ---
 ### How to contribute
-Contributions to help grow this resource are more than welcome so others can benefit. Every contributors will be visible on this page.
+Contributions to help grow this resource are more than welcome so others can benefit. Every contributor will be visible on this page.
 
 **Contributing guidelines:**
 
