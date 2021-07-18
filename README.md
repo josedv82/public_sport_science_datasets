@@ -51,6 +51,8 @@ This resource aims to provide a list of some of those publicly available dataset
 
 15. **Soccer StatsBomb Data:** Includes event, lineup, and match data in JSON format for hundreds of matches from various leagues. | [Download](https://github.com/statsbomb/open-data/tree/master/data) | [Source](https://github.com/statsbomb/open-data/tree/master/data) | **Type:** JSON | [Documentation](https://github.com/statsbomb/open-data/tree/master/doc) | [Terms](https://github.com/statsbomb/open-data/blob/master/LICENSE.pdf) |
   
+16. **Soccer Bio-banding Data:** This data was downloaded from [Ally Hamilton's](https://figshare.com/authors/Ally_Hamilton/6666101) dissertation on *The effect of Bio-banding on the technical, tactical and physical demands of soccer specific small-sided games.* It contains athlete maturation, biobanding categories as well as a number of tracking, technical and tactical variables. | [Download]() | [Source](https://figshare.com/articles/dataset/Study_Dataset_xlsx/8081471) | **Type:** .XLSX |
+  
 </p>
 </details> 
 
