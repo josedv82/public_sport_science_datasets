@@ -1,0 +1,11 @@
+player_id,team,hours_played,best_rank_achieved,rank_season_9,dominant_hand
+0,amateurs,336,gold,gold,right
+1,amateurs,1200,gold,gold,right
+2,amateurs,1000,platinum,platinum,right
+3,amateurs,400,no_rank,no_rank,right
+4,amateurs,415,gold,gold,right
+0,pros,5000,diamond,diamond,left
+1,pros,6000,diamond,diamond,right
+2,pros,5000,diamond,diamond,right
+3,pros,10000,master,master,right
+4,pros,7000,diamond,diamond,right
